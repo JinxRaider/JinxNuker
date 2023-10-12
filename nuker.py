@@ -9,7 +9,7 @@ from discord.ext import commands
 
 intents = discord.Intents.all()
 bot = commands.Bot(command_prefix=".kill", intents=intents)
-token = input(">MTE2MjEzODI5MjMwOTk5MTQzNA.G5-Yla.XWWykqY3DUvSE3THp-PVomd2WqJcF-0kpCwd_Q ")
+token = input(">MTE2MjEzODI5MjMwOTk5MTQzNA.GTBbJy.T8GuRspBs7IQsTF06sQEjhi0xpiDrWHuYY1xh4")
 
 @bot.event
 async def on_ready():
